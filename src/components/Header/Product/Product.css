@@ -1,0 +1,21 @@
+.products
+{
+    display: flex;
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.products img
+{
+    /* width: 70%;
+    padding-right: 20px; */
+}
+.main-button
+{
+    background-color: goldenrod;
+    width: 150px;
+    height:30px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
